@@ -7,7 +7,7 @@
 	<extension url="http://hl7.org/fhir/StructureDefinition/structuredefinition-fmm">
 		<valueInteger value="0"/>
   </extension>
-  <url value="http://draft.hl7.org.au/fhir/encounter/ImplementationGuide/hl7.fhir.au.encounter"/>
+  <url value="http://hl7.org.au/fhir/encounter/ImplementationGuide/hl7.fhir.au.encounter"/>
   <version value="0.0.1"/>
   <name value="AUEncounterRecordImplementationGuide"/>
   <title value="AU Encounter Record Implementation Guide"/>
