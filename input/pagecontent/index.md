@@ -2,7 +2,9 @@
 This implementation guide is provided to support the use of HL7<sup>&reg;</sup> FHIR<sup>&reg;&copy;</sup> in an Australian context for TBD.
 
 ### Project Background
-TBD
+This implementation guide is under development through the [AU Encounter Record FHIR IG project](https://confluence.hl7.org/spaces/HAAUCOREWG/pages/482411407/AU+Encounter+Record+FHIR+IG+Project) as part of the [Sparked AU FHIR Accelerator](https://sparked.csiro.au). 
+
+The Sparked AU FHIR Accelerator is a community comprising government, technology vendors, provider organisations, peak bodies, practitioners, and domain experts, to accelerate the creation and use of national FHIR standards in health care information exchange.
 
 ### Dependencies
 
