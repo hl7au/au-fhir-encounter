@@ -36,7 +36,9 @@ This guide is divided into several pages which are listed at the top of each pag
 ### Collaboration
 This guide is the product of collaborative work undertaken with participants from:
 
-* TBD
+* [HL7 Australia AU Core Working Group](https://confluence.hl7.org/spaces/HAAUCOREWG/pages/184913442/HL7+Australia+-+AU+Core+Work+Group+Home)
+* [HL7 Australia FHIR Working Group](https://confluence.hl7.org/spaces/HAFWG/pages/184912409/HL7+Australia+FHIR+Work+Group+Home)
+* Australian FHIR Implementers Community
 
 Primary Editors: TBD.
 
