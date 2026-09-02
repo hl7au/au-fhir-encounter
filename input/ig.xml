@@ -21,7 +21,7 @@
 			<use value="work"/>
 		</telecom>
   </contact>
-  <description value="TBD"/>
+  <description value="AU Encounter Recod is provided to support the exchange of encounter information in HL7® FHIR®© in an Australian context. AU Encounter Record is based on [AU Core](https://build.fhir.org/ig/hl7au/au-fhir-core), setting the conformance expectations for implementing support for the exchange of encounter information in systems."/>
   <jurisdiction>
 		<coding>
 			<system value="urn:iso:std:iso:3166"/>
