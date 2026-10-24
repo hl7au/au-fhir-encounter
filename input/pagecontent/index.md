@@ -1,5 +1,5 @@
 ### Introduction
-AU Encounter Recod is provided to support the exchange of encounter information in HL7® FHIR®© in an Australian context. AU Encounter Record is based on [AU Core](https://build.fhir.org/ig/hl7au/au-fhir-core), setting the conformance expectations for implementing support for the exchange of encounter information in systems.
+AU Encounter Record is provided to support the exchange of encounter information in HL7® FHIR®© in an Australian context. AU Encounter Record is based on [AU Core](https://build.fhir.org/ig/hl7au/au-fhir-core), setting the conformance expectations for implementing support for the exchange of encounter information in systems.
 
 AU Encounter Record supports consumers and their healthcare providers with timely and current access to relevant encounter specific information to enable effective coordination of care.
 
