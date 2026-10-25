@@ -44,6 +44,11 @@
 				<reference value="StructureDefinition/au-encounter-composition"/>
 			</reference>
 		</resource>
+		<resource>
+			<reference>
+				<reference value="StructureDefinition/au-encounter-bundle"/>
+			</reference>
+		</resource>
 		<!--EXAMPLES
     <resource>
       <reference>

@@ -6,7 +6,7 @@ HL7 Australia published FHIR implementation guides are required to follow specif
 - **SHALL** include an AU Variance Statement page
 
 ### Variance from AU Base
-This implementation guide has no variance (i.e. fully compliant) from AU Base FHIR Implementation Guide version <TBD> ([TBD](https://build.fhir.org/ig/hl7au/au-fhir-base/TBD)).
+This implementation guide has no variance (i.e. fully compliant) from AU Base FHIR Implementation Guide ([current](https://build.fhir.org/ig/hl7au/au-fhir-base/)).
 
 #### Additionally Profiled Resources
 
@@ -15,10 +15,10 @@ This implementation guide profiles the following resources that are not profiled
 - TBD
 
 ### Variance from AU Core
-This implementation guide has no variance (i.e. fully compliant) from AU Core FHIR Implementation Guide version <TBD> ([TBD](https://build.fhir.org/ig/hl7au/au-fhir-core/TBD)).
+This implementation guide has no variance (i.e. fully compliant) from AU Core FHIR Implementation Guide ([current](https://build.fhir.org/ig/hl7au/au-fhir-core/)). 
 
 #### Additionally Profiled Resources
 
 This implementation guide profiles the following resources that are not profiled in AU Core:
 
-- TBD
+- [AU Encounter Record Bundle](StructureDefinition-au-encounter-bundle.html) profiles FHIR resource [Bundle](http://hl7.org/fhir/R4/bundle.html)
