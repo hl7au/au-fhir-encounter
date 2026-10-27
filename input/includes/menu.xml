@@ -2,7 +2,7 @@
   <li>
     <a href="index.html">Home</a>
   </li>
-  <!--<li class="dropdown">
+  <li class="dropdown">
     <a data-toggle="dropdown" href="#" class="dropdown-toggle">Conformance
       <b class="caret"></b>
     </a>
@@ -12,7 +12,7 @@
         <a href="declaring-conformance.html">Declaring Conformance</a>
       </li>
     </ul>
-  </li>-->
+  </li>
   <li class="dropdown">
     <a data-toggle="dropdown" href="#" class="dropdown-toggle">Guidance
       <b class="caret"></b>
@@ -21,9 +21,9 @@
       <li>
         <a href="general-guidance.html">General Guidance</a>
       </li>
-      <!--<li>
+      <li>
         <a href="sex-and-gender.html">Sex and Gender</a>
-      </li>-->
+      </li>
       <li>
         <a href="aucdi.html">AUCDI</a>
       </li>
@@ -33,9 +33,9 @@
       <li>
         <a href="variance.html">AU Variance Statement</a>
       </li>
-      <!--<li>
+      <li>
         <a href="comparison.html">Comparison With Other National and International IGs</a>
-      </li>-->
+      </li>
       <li>
         <a href="future.html">Future of AU Encounter Record</a>
       </li>

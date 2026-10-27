@@ -63,7 +63,7 @@
 				<title value="Home"/>
 				<generation value="markdown"/>
 			</page>
-			<!--<page>
+			<page>
 				<nameUrl value="conformance.html"/>
 				<title value="Conformance"/>
 				<generation value="markdown"/>
@@ -77,7 +77,7 @@
 					<title value="Declaring Conformance"/>
 					<generation value="markdown"/>
 				</page>
-			</page>-->
+			</page>
 			<page>
 				<nameUrl value="guidance.html"/>
 				<title value="Guidance"/>
@@ -87,11 +87,11 @@
 					<title value="General Guidance"/>
 					<generation value="markdown"/>
 				</page>
-				<!--<page>
+				<page>
 					<nameUrl value="sex-and-gender.html"/>
 					<title value="Sex and Gender"/>
 					<generation value="markdown"/>
-				</page>-->
+				</page>
 				<page>
 					<nameUrl value="aucdi.html"/>
 					<title value="AUCDI"/>
@@ -107,11 +107,11 @@
 					<title value="AU Variance Statement"/>
 					<generation value="markdown"/>
 				</page>
-				<!--<page>
+				<page>
 					<nameUrl value="comparison.html"/>
 					<title value="Comparison With Other National and International IGs"/>
 					<generation value="markdown"/>
-				</page>-->
+				</page>
 				<page>
 					<nameUrl value="future.html"/>
 					<title value="Future of AU Encounter Record Summary"/>
