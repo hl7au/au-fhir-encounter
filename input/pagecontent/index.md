@@ -18,9 +18,14 @@ The Sparked AU FHIR Accelerator is a community comprising government, technology
 This guide is divided into several pages which are listed at the top of each page in the menu bar.
 
 - [Home](index.html): This page provides the introduction and scope for this guide.
+- [Conformance](conformance.html): These pages describe the set of rules to claim conformance to this guide including the expectations for *Must Support*  elements in AU Encounter Record Summary profiles.
+  - [General Requirements](general-requirements.html): This page defines requirements common to all actors (TBD) and profiles used in this guide including how CapabilityStatements (TBD) are used to claim conformance. This page defines the expectations for mandatory and *Must Support*  elements in AU Encounter Record Summary Profiles.
+  - [Declaring Conformance](declaring-conformance.html): This page describes how to declare conformance to AU Encounter Record Summary.
 - [Guidance](guidance.html): These pages list the guidance for this guide.
   - [General Guidance](general-guidance.html): This page provides guidance on using the profiles defined in this guide.
+  - [Sex and Gender](sex-and-gender.html): This page provides guidance on the representation of sex, gender, and related concepts.
   - [AUCDI](aucdi.html): This page maps AUCDI data groups and elements to FHIR artefacts in AU Encounter Record Summary.
+  - [Comparison With Other National and International IGs](comparison.html): This page provides comparison between AU Encounter Record Summary profiles and other national, or international implementation guides.
   - [Relationship With Other IGs](relationship.html): This page provides guidance on the relationship between AU Encounter Record Summary, AUCDI, and other implementation guides.
   - [AU Variance Statement](variance.html): This page documents the variance from AU Base and AU Core.
   - [Future of AU Encounter Record Summary](future.html): This page outlines the approach to developing AU Encounter Record Summary and yearly update cycle.
@@ -40,5 +45,5 @@ This guide is the product of collaborative work undertaken with participants fro
 * [HL7 Australia FHIR Working Group](https://confluence.hl7.org/spaces/HAFWG/pages/184912409/HL7+Australia+FHIR+Work+Group+Home)
 * Australian FHIR Implementers Community
 
-Primary Editors: TBD.
+Primary Editors: Dusica Bojicic, Jaymee Murdoch
 

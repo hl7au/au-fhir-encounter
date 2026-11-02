@@ -2,8 +2,8 @@
   <li>
     <a href="index.html">Home</a>
   </li>
-  <!--<li class="dropdown">
-    <a data-toggle="dropdown" href="#" class="dropdown-toggle">Conformance
+  <li class="dropdown">
+    <a data-toggle="dropdown" href="conformance.html" class="dropdown-toggle">Conformance
       <b class="caret"></b>
     </a>
     <ul class="dropdown-menu">
@@ -12,18 +12,18 @@
         <a href="declaring-conformance.html">Declaring Conformance</a>
       </li>
     </ul>
-  </li>-->
+  </li>
   <li class="dropdown">
-    <a data-toggle="dropdown" href="#" class="dropdown-toggle">Guidance
+    <a data-toggle="dropdown" href="guidance.html" class="dropdown-toggle">Guidance
       <b class="caret"></b>
     </a>
     <ul class="dropdown-menu">
       <li>
         <a href="general-guidance.html">General Guidance</a>
       </li>
-      <!--<li>
+      <li>
         <a href="sex-and-gender.html">Sex and Gender</a>
-      </li>-->
+      </li>
       <li>
         <a href="aucdi.html">AUCDI</a>
       </li>
@@ -33,9 +33,9 @@
       <li>
         <a href="variance.html">AU Variance Statement</a>
       </li>
-      <!--<li>
+      <li>
         <a href="comparison.html">Comparison With Other National and International IGs</a>
-      </li>-->
+      </li>
       <li>
         <a href="future.html">Future of AU Encounter Record</a>
       </li>
@@ -45,7 +45,7 @@
     <a href="security.html">Security and Privacy</a>
   </li>-->
   <li class="dropdown">
-    <a data-toggle="dropdown" href="#" class="dropdown-toggle">FHIR Artefacts
+    <a data-toggle="dropdown" href="artefacts.html" class="dropdown-toggle">FHIR Artefacts
       <b class="caret"></b>
     </a>
     <ul class="dropdown-menu">
@@ -73,7 +73,7 @@
     <a href="examples.html">Examples</a>
   </li>
   <li class="dropdown">
-    <a data-toggle="dropdown" href="#" class="dropdown-toggle">Support
+    <a data-toggle="dropdown" href="support.html" class="dropdown-toggle">Support
       <b class="caret"></b>
     </a>
     <ul class="dropdown-menu">

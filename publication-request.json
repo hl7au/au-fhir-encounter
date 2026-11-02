@@ -1,0 +1,13 @@
+{
+    "package-id" : "hl7.fhir.au.encounter",
+    "version" : "0.0.1-ci-build",
+    "path" : "http://hl7.org.au/fhir/encounter/0.0.1-ci-build",
+    "mode" : "working",
+    "status" : "preview",
+    "sequence" : "R1",
+    "desc" : "This MONTH YEAR [preview|ballot|draft] snapshot supports the [testing|MONTH YEAR Ballot|MONTH YEAR Connectathon] of AU Patient Summary",
+    "first" : false,
+    "title" : "AU Encounter Record",
+    "ci-build" : "https://build.fhir.org/ig/hl7au/au-fhir-encounter/",
+    "introduction" : "This implementation guide is to support the exchange of encounter information in HL7® FHIR®© in an Australian context. It is based on AU Core, and sets the minimum expectations on FHIR resources to support conformance and implementation in systems."
+}
