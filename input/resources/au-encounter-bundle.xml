@@ -5,8 +5,8 @@
     <valueInteger value="0"/>
   </extension>
   <url value="http://hl7.org.au/fhir/encounter/StructureDefinition/au-encounter-bundle"/>
-  <name value="AUEncounterRecordBundle"/>
-  <title value="AU Encounter Record Bundle"/>
+  <name value="AUEncounterRecordSummaryBundle"/>
+  <title value="AU Encounter Record Summary Bundle"/>
   <status value="draft"/>
   <description value="This profile sets minimum expectations for a Bundle resource in the context of an encounter record summary in an Australian context. It is based on FHIR [Bundle](http://hl7.org/fhir/StructureDefinition/Bundle), and identifies the *additional* mandatory core elements, extensions, vocabularies and value sets that **SHALL** be present in the Bundle resource when conforming to this profile.&#xD;&#xA;AU Encounter Record Summary is specified in this guide as a HL7 FHIR document (a Bundle including a Composition)."/>
   <kind value="resource"/>
