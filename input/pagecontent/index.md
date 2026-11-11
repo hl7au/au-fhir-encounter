@@ -1,7 +1,7 @@
 ### Introduction
-AU Encounter Record Summary is provided to support the exchange of encounter information in HL7® FHIR®© in an Australian context. AU Encounter Record Summary is based on [AU Core](https://build.fhir.org/ig/hl7au/au-fhir-core), setting the conformance expectations for implementing support for the exchange of encounter information in systems.
+AU Encounter Record Summary is provided to support the exchange of a summary of an encounter record in HL7® FHIR®© in an Australian context. AU Encounter Record Summary is based on [AU Core](https://build.fhir.org/ig/hl7au/au-fhir-core), setting the conformance expectations for the structured recording of encounter information for exchange and reuse in systems.
 
-AU Encounter Record Summary supports consumers and their healthcare providers with timely and current access to relevant encounter specific information to enable effective coordination of care.
+AU Encounter Record Summary supports consumers and their healthcare providers with timely and current access to relevant encounter information for a specific purpose to enable effective coordination of care.
 
 ### Project Background
 This implementation guide is under development through the [AU Encounter Record Summary FHIR IG project](https://confluence.hl7.org/spaces/HAAUCOREWG/pages/482411407/AU+Encounter+Record+FHIR+IG+Project) as part of the [Sparked AU FHIR Accelerator](https://sparked.csiro.au). 
