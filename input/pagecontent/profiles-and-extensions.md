@@ -12,12 +12,33 @@ The following profiles and have been defined for this implementation guide.
 
 <br />
 
+### Other Profiles Used
+In addition to the profiles defined in this implementation guide, the following profiles defined elsewhere are used by AU Encounter Record Summary. These profiles are the target of a *Must Support* reference element in an AU Encounter Record Summary profile:
+* [AU Base Diagnostic Imaging Result](https://build.fhir.org/ig/hl7au/au-fhir-base/en/StructureDefinition-au-imagingresult.html)
+* [AU Core AllergyIntolerance](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-allergyintolerance.html)
+* [AU Core Condition](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-condition.html)
+* [AU Core DiagnosticReport](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-diagnosticreport.html)
+* [AU Core Encounter](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-encounter.html)
+* [AU Core Immunization](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-immunization.html)
+* [AU Core MedicationRequest](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-medicationrequest.html)
+* [AU Core MedicationStatement](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-medicationstatement.html)
+* [AU Core Organization](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-organization.html)
+* [AU Core Pathology Result Observation](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-diagnosticresult-path.html)
+* [AU Core Patient](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-patient.html)
+* [AU Core Practitioner](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-practitioner.html)
+* [AU Core PractitionerRole](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-practitionerrole.html)
+* [AU Core Procedure](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-procedure.html)
+* [AU Core RelatedPerson](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-relatedperson.html)
+
+
 ### Extensions
 
 All extensions used in this guide are defined in the FHIR Extensions Pack or [AU Base](http://build.fhir.org/ig/hl7au/au-fhir-base/profiles-and-extensions.html#extensions).
 
-The following extensions are marked with *Must Support* in this implementation guide:
-* [TBD](https://build.fhir.org/ig/hl7au/au-fhir-base/TBD) in [TBD](StructureDefinition-TBD.html)
+The following extensions are marked with *Must Support* in profiles referenced by this implementation guide:
+* [Australian Indigenous Status](https://build.fhir.org/ig/hl7au/au-fhir-base/StructureDefinition-indigenous-status.html) in [AU Core Patient](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-patient.html)
+* [Individual Pronouns](http://hl7.org/fhir/StructureDefinition/individual-pronouns) in [AU Core Patient](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-patient.html)
+* [Individual Gender Identity](http://hl7.org/fhir/StructureDefinition/individual-genderIdentity) in [AU Core Patient](https://build.fhir.org/ig/hl7au/au-fhir-core/en/StructureDefinition-au-core-patient.html)
 
 
 
