@@ -70,10 +70,6 @@
       <path value="Composition.section.text"/>
       <min value="1"/>
     </element>
-    <element id="Composition.section.section">
-      <path value="Composition.section.section"/>
-      <max value="0"/>
-    </element>
     <element id="Composition.section:sectionProblems">
       <path value="Composition.section"/>
       <sliceName value="sectionProblems"/>
