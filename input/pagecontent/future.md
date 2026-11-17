@@ -1,18 +1,20 @@
 
 ### AU Encounter Record Summary R1 Target Release Time Frame
 AU Encounter Record Summary R1 (& AU Core R4) Target Release Timeline:
-* Intermediate draft snapshots from December 2026 and for each HL7 AU Connectathon
+* Intermediate draft snapshots from March 2027 and for each HL7 AU Connectathon
 * R1 Ballot for Comment in the August/September 2027 cycle
 * R1 Ballot for Working Standard in the February/March 2028 cycle, published by June 2028
 * Continued updates on a yearly / 18-monthly cycle from then on
 
-TBD
+ <div> 
+    <img src="target-timeframes.png" alt="AU Encounter Record Summary R1 Target Release Time Frame" style="width:75%"/>
+  </div>
 *Figure 1: AU Encounter Record Summary R1 target release time frame*
-
+<br/>
 
 Future updates of AU Encounter Record Summary would reflect changes to:
  - AU Base
- - AUCDI (Encounter Record Summary )
+ - AUCDI (Encounter Record Summary)
  - AU Core
  - requests from the AU FHIR community
  
